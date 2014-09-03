@@ -3,6 +3,7 @@
   "version": "0.0.0",
   "description": "skeleton middleware for performing some action at the start and end of handling a request",
   "main": "index.js",
+  "repository": "https://github.com/Foo42/wrappingMiddleware",
   "scripts": {
     "test": "grunt test"
   },
