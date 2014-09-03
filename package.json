@@ -1,0 +1,22 @@
+{
+  "name": "wrapping-middleware",
+  "version": "0.0.0",
+  "description": "skeleton middleware for performing some action at the start and end of handling a request",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "keywords": [
+    "middleware"
+  ],
+  "author": "Julian Haeger",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-mocha-test": "^0.11.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jscs-checker": "^0.6.1",
+    "jit-grunt": "^0.7.0",
+    "chai": "^1.9.1"
+  }
+}
