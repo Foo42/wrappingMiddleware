@@ -1,6 +1,6 @@
 {
   "name": "wrapping-middleware",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "skeleton middleware for performing some action at the start and end of handling a request",
   "main": "index.js",
   "repository": "https://github.com/Foo42/wrappingMiddleware",
